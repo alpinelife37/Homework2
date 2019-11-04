@@ -25,7 +25,7 @@ footer {
   border-top: 8px solid #4aaaa5;
   height: 10px;
   margin-top: 40px;
- 
+
 }
 
 #topbox {
@@ -131,7 +131,7 @@ img {
   width: auto;
   height: 150px;
   margin-top: 5px;
-  margin-right: none;
+
 }
 
 h1 {
@@ -182,10 +182,10 @@ h3 {
   border-bottom: 0;
 }
 
-#imgdiv  {
+#imgdiv {
   margin-left: 20px;
 }
 
 .firsttext {
- padding-top: 30px; 
+  padding-top: 30px;
 }
