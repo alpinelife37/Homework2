@@ -1,1 +1,2 @@
 # Homework2
+This project was aimed at utilizing Bootstrap in order to remake our orginal homework 1 portfolio. It took me awhile to complete this even though I thought i had a good understanding from the previous weeks classes. I ended up going thru the old class activites along with watching instructional videos on Bootstrap. I completed the project but feel like it could have been better and that I still need to improve on my Bootstrap iunderstanding. 11-4-2019
